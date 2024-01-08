@@ -13,3 +13,6 @@ find the triangle's row knowing its index (the rows are 1-indexed), e.g.:
 
 Note: your code should be optimized to handle big inputs.
 */
+
+
+// Solution
