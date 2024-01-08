@@ -16,3 +16,7 @@ Note: your code should be optimized to handle big inputs.
 
 
 // Solution
+
+function oddRow(n) {
+  return Array(n).fill(0).map((_,i) => n*n-n+1+i*2);
+}
